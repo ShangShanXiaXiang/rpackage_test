@@ -26,7 +26,7 @@ test_that("is_leap_year works correctly", {
   # Boundary conditions
   expect_true(is_leap_year(2000))
   expect_false(is_leap_year(1900))
-  expect_true(is_leap_year(2024))
+  expect_true(is_leap_year(2080))
   expect_false(is_leap_year(2100))
 
   # Additional cases
