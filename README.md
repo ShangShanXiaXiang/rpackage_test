@@ -20,3 +20,7 @@ project.run()
 
 
 This Markdown file provides a structured overview of a hypothetical project, including sections for installation, usage, contributing, and licensing.
+
+<!-- badges: start -->
+[![Codecov test coverage](https://codecov.io/gh/ShangShanXiaXiang/rpackage_test/branch/master/graph/badge.svg)](https://app.codecov.io/gh/ShangShanXiaXiang/rpackage_test?branch=master)
+<!-- badges: end -->
