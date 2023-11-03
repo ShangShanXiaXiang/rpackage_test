@@ -23,4 +23,5 @@ This Markdown file provides a structured overview of a hypothetical project, inc
 
 <!-- badges: start -->
 [![Codecov test coverage](https://codecov.io/gh/ShangShanXiaXiang/rpackage_test/branch/master/graph/badge.svg)](https://app.codecov.io/gh/ShangShanXiaXiang/rpackage_test?branch=master)
+[![R-CMD-check](https://github.com/ShangShanXiaXiang/rpackage_test/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ShangShanXiaXiang/rpackage_test/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
