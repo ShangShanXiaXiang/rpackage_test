@@ -21,5 +21,5 @@ cd repo
 
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/ShangShanXiaXiang/rpackage_test/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ShangShanXiaXiang/rpackage_test/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/ShangShanXiaXiang/rpackage_test/.github/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ShangShanXiaXiang/rpackage_test/.github/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
