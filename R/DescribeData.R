@@ -1,6 +1,6 @@
 library(psych)
 
-describe(mtcars)
+psych::describe(mtcars)
 
 square_compute = function(x){
   return(x^2)
