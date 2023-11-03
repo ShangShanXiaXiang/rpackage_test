@@ -3,3 +3,8 @@
 .RData
 .Ruserdata
 inst/doc
+<<<<<<< HEAD
+=======
+/doc/
+/Meta/
+>>>>>>> 54e1ee9bfbf74ba42e33b6d1851391166e9e10dd
