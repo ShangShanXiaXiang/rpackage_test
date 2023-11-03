@@ -6,6 +6,7 @@
 is_leap_year <- function(year) {
   # Decide a given year is a leap year or not
   if (year %% 4 != 0) {
+  # Adding a comment here
     return(FALSE)
   } else if (year %% 100 != 0) {
     return(TRUE)
