@@ -11,6 +11,7 @@ is_leap_year <- function(year) {
   } else if (year %% 100 != 0) {
     ## adding more comments here
     return(TRUE)
+    # adding more comments here
   } else if (year %% 400 == 0) {
     return(TRUE)
   } else {
